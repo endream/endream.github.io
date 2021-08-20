@@ -1,0 +1,1 @@
+document.querySelector('.post_share').remove()
